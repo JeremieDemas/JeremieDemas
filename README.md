@@ -1,5 +1,5 @@
 # About me
 
-- 🔭 I’m currently working on Blockchain technologies
-- 👯 I’m looking to collaborate on Blockchain projects
-- 📫 How to reach me: jeremie@demas-consulting.com
+- 🔐 Graduate engineer in Cybersecurity from the CNAM Engineering School
+- ⛓ R&D Blockchain Consultant since 2019
+- 📫 jeremie@demas-consulting.com
